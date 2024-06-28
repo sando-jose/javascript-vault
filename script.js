@@ -1,4 +1,4 @@
-/*Creating variables to use as code*/
+/*Creating variables to use as code in alert box*/
 const first = 5 + 5;
 const second = 50 - 10;
 const third = 15 * 2 + 9;
